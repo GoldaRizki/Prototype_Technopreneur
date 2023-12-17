@@ -1,5 +1,5 @@
 # Technopreunership
-Repository ini berisi source code nametag untuk arduino nano
+Repository ini berisi source code nametag untuk arduino nano dan diperuntukkan untuk mata kuliah technopreunership
 
 ### Dependencies
   - Project ini butuh library Adafruit SSD1306 by Adafruit
